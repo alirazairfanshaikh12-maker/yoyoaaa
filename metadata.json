@@ -1,0 +1,6 @@
+{
+  "name": "Teachers Day Card",
+  "description": "A heartfelt Teacher's Day greeting card app for Teacher Nida and Teacher Asiya from Ali Raza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
